@@ -4,6 +4,12 @@ body {
     background-color: lightskyblue;
 }
 
+h1{
+    font-family: 'Athiti', sans-serif;
+
+}
+
+
 .img-circle {
     border-radius: 50%;
     width: 200px;
