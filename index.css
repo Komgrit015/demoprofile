@@ -1,10 +1,19 @@
 body {
     padding: 30px 100px;
     font-family: 'Prompt', sans-serif;
-    background-color: lightskyblue;
+    background-color:rgba(65, 70, 75, 0.75);
 }
 
 h1{
+    
+    font-family: 'Orbitron', sans-serif;
+
+}
+h2{
+    font-family: 'Poiret One', cursive;
+
+}
+h3{
     font-family: 'Athiti', sans-serif;
 
 }
